@@ -16,7 +16,7 @@ setup(
     # http://packaging.python.org/en/latest/tutorial.html#version
     version='0.0.1',
 
-    description="A Pyblosxom filestat plugin caches the mtimes of your entries in a .mtimes.yaml file.",
+    description="A Pyblosxom filestat plugin that caches the mtimes of your entries in a .mtimes.yaml file.",
     long_description=long_description,
 
     # The project's main homepage.
