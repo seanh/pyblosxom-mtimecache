@@ -1,6 +1,6 @@
-__author__      = "Sean Hammond pyblosxom-mtimecache at seanh dot cc"
+__author__      = "Sean Hammond pyblosxommtimecache at seanh dot cc"
 __version__     = "0.1"
-__url__         = "https://github.com/seanh/pyblosxom-mtimecache"
+__url__         = "https://github.com/seanh/pyblosxommtimecache"
 __description__ = ("A Pyblosxom filestat plugin caches the mtimes of your "
                    "entries in a .mtimes.yaml file.")
 

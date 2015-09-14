@@ -9,7 +9,7 @@ with open(path.join(here, 'README.markdown'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='pyblosxom-mtimecache',
+    name='pyblosxommtimecache',
 
     # Versions should comply with PEP440.  For a discussion on single-sourcing
     # the version across setup.py and the project code, see
@@ -20,11 +20,11 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/seanh/pyblosxom-mtimecache',
+    url='https://github.com/seanh/pyblosxommtimecache',
 
     # Author details
     author='Sean Hammond',
-    author_email='pyblosxom-mtimecache@seanh.cc',
+    author_email='pyblosxommtimecache@seanh.cc',
 
     # Choose your license
     license='GPLv3',
