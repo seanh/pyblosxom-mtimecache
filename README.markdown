@@ -31,6 +31,4 @@ Install the pyblosxommtimecache package from pip:
 
 Then add it to the `load_plugins` setting in your `config.py`:
 
-    py["load_plugins"] = [
-        'pyblosxommtimecache.mtimecache',
-    ]
+    py["load_plugins"] = ["pyblosxommtimecache"]
